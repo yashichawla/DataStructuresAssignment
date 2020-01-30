@@ -1,0 +1,12 @@
+Applications of Queues:
+1.Queue is useful in CPU scheduling, Disk scheduling. When multiple processes require CPU at the same time, various CPU scheduling algorithms are used which are implemented using queue data structure.
+2.In customer servicing systems such as in call centres, queue is followed to decide the priority among customers.
+3.While printing multiple files, the order in which we select it, is the order in which it starts getting printed, it follows First In First Out (FIFO).
+4.Breadth First Search Algorithm
+
+Applications of Stacks:
+1.Parenthesis Matching: When we encounter an opening bracket, push it in the stack. On encountering a closing bracket, pop the stack.
+2.Backtracking: To access the most recent data element in a series of elements.
+3.Reversing a word: We can push the letters one-by-one, and then pop it from the stack.
+4.The task of "UNDO": We can keep every text changes in the stack, and to undo, we can pop them.
+	
