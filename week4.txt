@@ -1,0 +1,16 @@
+1.
+Inorder
+DBGEHACF
+Preorder
+ABDEGHCF
+Postorder
+DGHEBFCA
+is a complete binary tree
+2.
+Inorder
+HDBEAFCG
+Preorder
+ABDHECFG
+Postorder
+HDEBFGCA
+is a complete binary tree
